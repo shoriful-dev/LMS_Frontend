@@ -1,0 +1,192 @@
+[
+  {
+    "title": "React.js Full Course",
+    "description": "Learn to build modern single-page applications using React.js, Hooks, Context API, and React Router. Master component-driven development and real-world project building.",
+    "price": 45.99,
+    "discount": 15,
+    "stacks": ["React.js", "JavaScript", "Vite", "Tailwind CSS"],
+    "thumbnail": {
+      "public_id": "course-thumbnails/reactjs123",
+      "url": "https://res.cloudinary.com/demo/image/upload/v1728326192/course-thumbnails/reactjs123.jpg"
+    },
+    "category": "frontend",
+    "instructor": { "$oid": "68e26f952f8f385a9ff5cdc5" },
+    "level": "intermediate",
+    "requirements": [
+      "Basic understanding of HTML, CSS, and JavaScript",
+      "Node.js installed on your computer"
+    ],
+    "whatYouWillLearn": [
+      "React components and props",
+      "React hooks (useState, useEffect, useContext)",
+      "State management with Context API",
+      "Routing using React Router",
+      "Building and deploying a real-world project"
+    ],
+    "totalDuration": 0,
+    "enrollmentCount": 12,
+    "averageRating": 4.8,
+    "reviewCount": 6,
+    "status": "published",
+    "createdAt": { "$date": "2025-09-20T09:25:41.924Z" },
+    "updatedAt": { "$date": "2025-10-12T11:18:23.659Z" },
+    "__v": 0
+  },
+  {
+    "title": "MERN Stack Masterclass",
+    "description": "Become a full-stack web developer with MongoDB, Express.js, React, and Node.js. Learn to build complete end-to-end applications.",
+    "price": 69.99,
+    "discount": 20,
+    "stacks": ["MongoDB", "Express", "React", "Node.js"],
+    "thumbnail": {
+      "public_id": "course-thumbnails/mernstack001",
+      "url": "https://res.cloudinary.com/demo/image/upload/v1728326321/course-thumbnails/mernstack001.jpg"
+    },
+    "category": "fullstack",
+    "instructor": { "$oid": "68e26f952f8f385a9ff5cdc5" },
+    "level": "advanced",
+    "requirements": [
+      "Solid understanding of JavaScript",
+      "Familiarity with REST APIs",
+      "Basic knowledge of React.js"
+    ],
+    "whatYouWillLearn": [
+      "Building REST APIs using Express and Node.js",
+      "Connecting MongoDB with Mongoose",
+      "Frontend integration with React",
+      "Authentication and Authorization",
+      "Deploying full-stack apps to the cloud"
+    ],
+    "totalDuration": 0,
+    "enrollmentCount": 30,
+    "averageRating": 4.9,
+    "reviewCount": 18,
+    "status": "published",
+    "createdAt": { "$date": "2025-09-25T06:18:12.924Z" },
+    "updatedAt": { "$date": "2025-10-14T07:05:26.659Z" },
+    "__v": 0
+  },
+  {
+    "title": "TypeScript for JavaScript Developers",
+    "description": "Learn how to write clean, type-safe, and maintainable JavaScript code using TypeScript. Perfect for React, Node.js, and Next.js developers.",
+    "price": 39.99,
+    "discount": 5,
+    "stacks": ["TypeScript", "JavaScript", "Node.js"],
+    "thumbnail": {
+      "public_id": "course-thumbnails/tsdev2025",
+      "url": "https://res.cloudinary.com/demo/image/upload/v1728326499/course-thumbnails/tsdev2025.jpg"
+    },
+    "category": "programming",
+    "instructor": { "$oid": "68e26f952f8f385a9ff5cdc5" },
+    "level": "beginner",
+    "requirements": ["Basic JavaScript knowledge", "VS Code installed"],
+    "whatYouWillLearn": [
+      "Understanding static typing",
+      "Interfaces and type aliases",
+      "Generics and utility types",
+      "Working with TypeScript in React and Node.js",
+      "TypeScript project setup and configuration"
+    ],
+    "totalDuration": 0,
+    "enrollmentCount": 15,
+    "averageRating": 4.7,
+    "reviewCount": 4,
+    "status": "published",
+    "createdAt": { "$date": "2025-10-01T10:10:42.924Z" },
+    "updatedAt": { "$date": "2025-10-13T08:45:26.659Z" },
+    "__v": 0
+  },
+  {
+    "title": "TypeScript for JavaScript Developers",
+    "description": "Learn how to write clean, type-safe, and maintainable JavaScript code using TypeScript. Perfect for React, Node.js, and Next.js developers.",
+    "price": 39.99,
+    "discount": 5,
+    "stacks": ["TypeScript", "JavaScript", "Node.js"],
+    "thumbnail": {
+      "public_id": "course-thumbnails/tsdev2025",
+      "url": "https://res.cloudinary.com/demo/image/upload/v1728326499/course-thumbnails/tsdev2025.jpg"
+    },
+    "category": "programming",
+    "instructor": { "$oid": "68e26f952f8f385a9ff5cdc5" },
+    "level": "beginner",
+    "requirements": ["Basic JavaScript knowledge", "VS Code installed"],
+    "whatYouWillLearn": [
+      "Understanding static typing",
+      "Interfaces and type aliases",
+      "Generics and utility types",
+      "Working with TypeScript in React and Node.js",
+      "TypeScript project setup and configuration"
+    ],
+    "totalDuration": 0,
+    "enrollmentCount": 15,
+    "averageRating": 4.7,
+    "reviewCount": 4,
+    "status": "published",
+    "createdAt": { "$date": "2025-10-01T10:10:42.924Z" },
+    "updatedAt": { "$date": "2025-10-13T08:45:26.659Z" },
+    "__v": 0
+  },
+  {
+    "title": "Deploying Apps with Docker & CI/CD",
+    "description": "Learn how to containerize your applications with Docker and automate deployment using GitHub Actions, AWS, and CI/CD pipelines.",
+    "price": 59.99,
+    "discount": 10,
+    "stacks": ["Docker", "AWS", "GitHub Actions", "CI/CD"],
+    "thumbnail": {
+      "public_id": "course-thumbnails/devops2025",
+      "url": "https://res.cloudinary.com/demo/image/upload/v1728326712/course-thumbnails/devops2025.jpg"
+    },
+    "category": "devops",
+    "instructor": { "$oid": "68e26f952f8f385a9ff5cdc5" },
+    "level": "intermediate",
+    "requirements": [
+      "Familiarity with web applications",
+      "Basic command-line skills"
+    ],
+    "whatYouWillLearn": [
+      "Creating Docker images and containers",
+      "Docker Compose and networking",
+      "Setting up CI/CD pipelines",
+      "Deploying to AWS EC2",
+      "Managing environment variables securely"
+    ],
+    "totalDuration": 0,
+    "enrollmentCount": 9,
+    "averageRating": 4.6,
+    "reviewCount": 3,
+    "status": "published",
+    "createdAt": { "$date": "2025-09-28T11:22:42.924Z" },
+    "updatedAt": { "$date": "2025-10-15T05:15:26.659Z" },
+    "__v": 0
+  },
+  {
+    "title": "Backend API Development with Express.js",
+    "description": "Learn to design and develop RESTful APIs using Express.js. Handle CRUD operations, authentication, and deployment with best practices.",
+    "price": 49.99,
+    "discount": 12,
+    "stacks": ["Node.js", "Express", "MongoDB", "JWT"],
+    "thumbnail": {
+      "public_id": "course-thumbnails/expressapi2025",
+      "url": "https://res.cloudinary.com/demo/image/upload/v1728326892/course-thumbnails/expressapi2025.jpg"
+    },
+    "category": "backend",
+    "instructor": { "$oid": "68e26f952f8f385a9ff5cdc5" },
+    "level": "beginner",
+    "requirements": ["JavaScript basics", "Node.js installed"],
+    "whatYouWillLearn": [
+      "Routing and middleware in Express",
+      "CRUD operations with MongoDB",
+      "JWT authentication",
+      "Error handling and validation",
+      "Deploying APIs to production"
+    ],
+    "totalDuration": 0,
+    "enrollmentCount": 22,
+    "averageRating": 5,
+    "reviewCount": 9,
+    "status": "published",
+    "createdAt": { "$date": "2025-09-15T14:40:42.924Z" },
+    "updatedAt": { "$date": "2025-10-13T09:55:26.659Z" },
+    "__v": 0
+  }
+]
